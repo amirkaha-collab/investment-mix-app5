@@ -1,0 +1,33 @@
+{
+  "total_portfolio_value_ils": 950000,
+  "holdings_count": 13,
+  "analysis_currency": "ILS",
+  "asset_allocation": [
+    {"asset_class": "equity",  "market_value_ils": 625200, "weight": 0.658105, "is_estimated": false},
+    {"asset_class": "bond",    "market_value_ils": 283000, "weight": 0.297895, "is_estimated": false},
+    {"asset_class": "cash",    "market_value_ils": 50000,  "weight": 0.052632, "is_estimated": false}
+  ],
+  "equity_geography": [
+    {"region": "USA",    "market_value_ils": 396000, "weight_in_equities": 0.6334, "weight_in_portfolio": 0.4168, "is_estimated": false},
+    {"region": "Israel", "market_value_ils": 98000,  "weight_in_equities": 0.1568, "weight_in_portfolio": 0.1032, "is_estimated": false},
+    {"region": "Europe", "market_value_ils": 131200, "weight_in_equities": 0.2099, "weight_in_portfolio": 0.1381, "is_estimated": true}
+  ],
+  "us_exposure": {
+    "conservative_us_value_ils": 396000,
+    "conservative_us_weight": 0.4168,
+    "broad_us_value_ils": 396000,
+    "broad_us_weight": 0.4168,
+    "methodology_note": "Conservative: direct US holdings + US-weighted ETF fractions.",
+    "is_estimated": false
+  },
+  "conservative_weighted_duration": 7.4,
+  "extended_weighted_duration": 6.2,
+  "weighted_fund_cost_on_funds": 0.085,
+  "effective_fund_cost_on_total_portfolio": 0.062,
+  "total_cost_percent": null,
+  "total_cost_is_assumption": false,
+  "top5_concentration": 0.562,
+  "top10_concentration": 0.881,
+  "qa_warnings": [],
+  "qa_errors": []
+}

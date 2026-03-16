@@ -1,0 +1,14 @@
+שם נייר,כמות,שווי שוק,מטבע,סוג,ISIN,Ticker,מדינה,ענף
+"קרן מחקה S&P 500",500,185000,ILS,מניות,,SPY,USA,
+"Invesco QQQ Trust",100,42000,USD,מניות,,QQQ,USA,
+"iShares Core MSCI EAFE ETF",800,56000,USD,מניות,,IEFA,Global,
+"מניות ת""א-125",2000,98000,ILS,מניות,,1159247,ישראל,
+"אפל בע""מ",50,9800,USD,מניות,,AAPL,USA,Information Technology
+"מיקרוסופט",30,12600,USD,מניות,,MSFT,USA,Information Technology
+"אג""ח ממשלתי גליל 8.9.2030",100000,103500,ILS,אגח,,IL0065262988,,
+"אג""ח צמוד מדד 4.5 2028",50000,51800,ILS,אגח,,IL0064782929,,
+"iShares US Aggregate Bond ETF",300,31500,USD,אגח,,AGG,USA,
+"iShares 20+ Year Treasury Bond",150,16200,USD,אגח,,TLT,USA,
+"אג""ח דולר בינלאומי מנוהל",80000,80000,ILS,אגח,,,Global,
+"פיקדון בנק לאומי",,,ILS,מזומן,,,,
+"קרן כספית פסגות",50000,50000,ILS,מזומן,,,,

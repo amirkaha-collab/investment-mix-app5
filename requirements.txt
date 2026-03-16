@@ -1,0 +1,52 @@
+# ─── Web / UI ──────────────────────────────────────────────────────────────────
+streamlit>=1.35.0
+
+# ─── Data handling ─────────────────────────────────────────────────────────────
+pandas>=2.2.0
+numpy>=1.26.0
+openpyxl>=3.1.2
+xlrd>=2.0.1
+
+# ─── PDF parsing – text-based ──────────────────────────────────────────────────
+pdfplumber>=0.11.0
+pymupdf>=1.24.0
+pypdf>=4.2.0
+
+# ─── PDF parsing – OCR (image-based / scanned PDFs) ───────────────────────────
+pytesseract>=0.3.10
+pdf2image>=1.17.0
+Pillow>=10.3.0
+
+# ─── PDF table extraction (optional, requires Ghostscript) ─────────────────────
+# camelot-py[cv]>=0.11.0
+
+# ─── Validation / config ───────────────────────────────────────────────────────
+pydantic>=2.7.0
+pydantic-settings>=2.3.0
+python-dotenv>=1.0.1
+
+# ─── Presentation ──────────────────────────────────────────────────────────────
+python-pptx>=0.6.23
+
+# ─── Charts ────────────────────────────────────────────────────────────────────
+matplotlib>=3.9.0
+plotly>=5.22.0
+
+# ─── HTTP / research layer ─────────────────────────────────────────────────────
+requests>=2.32.0
+beautifulsoup4>=4.12.3
+lxml>=5.2.0
+tenacity>=8.3.0
+
+# ─── Caching ───────────────────────────────────────────────────────────────────
+diskcache>=5.6.3
+
+# ─── Testing ───────────────────────────────────────────────────────────────────
+pytest>=8.2.0
+pytest-mock>=3.14.0
+
+# ─── Utilities ─────────────────────────────────────────────────────────────────
+python-dateutil>=2.9.0
+arabic-reshaper>=3.0.0
+python-bidi>=0.4.2
+loguru>=0.7.2
